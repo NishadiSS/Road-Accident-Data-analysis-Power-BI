@@ -5,6 +5,9 @@
 # Final Dashboard output
 ![Screenshot 2024-03-13 214039](https://github.com/NishadiSS/Road-Accident-Data-analysis-Power-BI/assets/119886016/378a4f7d-5c00-408e-9ff6-8bc7d1a86493)
 
+# Dashboard Mobile View
+
+https://github.com/NishadiSS/Road-Accident-Data-analysis-Power-BI/assets/119886016/eba18f28-eae0-441b-801a-23eab6fb85a3
 
 # Features
 ### 1. Data Exploration
